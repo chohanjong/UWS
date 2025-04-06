@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@types/react-dropzone": "^4.2.2"
+  }
+}
